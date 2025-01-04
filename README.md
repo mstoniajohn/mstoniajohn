@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mstoniajohn
-- 👀 I absolutely love to code and taught myself how to do so after gradutating college. My favorite language to code in is Javascript, but I do really love python as well.
-- 🌱 I’m advanced in Javascript and Python, intermediate in C.
-- 💞️ I’m looking to collaborate on any cool project
+- 👀 I absolutely love to code and taught myself how to do so after gradutating college. My favorite languages to code in are Python & Javascript.
+- 🌱 My goal is to build upon my skills in programming and mathematics to continue to be a top contributor on any team I am fortunate to be a part if.
 - 📫 How to reach me: email - toniaroganti@gmail.com
 
 <!---
